@@ -1,5 +1,11 @@
 body {
-    background-color: #567a62;
-  
+ background-color: #567a62;
+ color: white;
+ font-family: "Bai Jamjuree", sans-serif;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 700px;
+ margin: 0;
 }
 
